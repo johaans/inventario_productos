@@ -15,8 +15,7 @@ freeze
 
 html5lib
 
-mysqlclient==
-
+mysqlclient
 PyPDF2
 
 pytz
